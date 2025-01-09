@@ -1,6 +1,10 @@
 # About
 This is a basic NotePad clone application build using Python Language.
 
+# Screenshots
+<img src = "https://github.com/GoldenFish23/Python-Tkinter-Notepad_Clone/blob/main/Images/Screenshot%202024-08-05%20222859.png">
+<img src = "https://github.com/GoldenFish23/Python-Tkinter-Notepad_Clone/blob/main/Images/Screenshot%202024-08-05%20222957.png">
+
 ## Requirements (install using pip)
 - *Python*
 pip install python
